@@ -9,5 +9,16 @@
       "博客"
     ],
     "storagePath": "2026/02/05/blog.samaltman.com-Sam-Altman"
+  },
+  {
+    "url": "https://www.anthropic.com/research",
+    "archivedAt": "2026-02-05T14:19:37.049Z",
+    "title": "Research",
+    "description": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+    "tags": [
+      "AI研究",
+      "Anthropic"
+    ],
+    "storagePath": "2026/02/05/anthropic.com-Research"
   }
 ]
