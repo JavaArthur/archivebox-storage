@@ -1,0 +1,11 @@
+{
+  "url": "https://newshacker.me/story?id=46874619",
+  "archivedAt": "2026-02-05T14:26:18.756Z",
+  "title": "Xcode 26.3 支持 agentic coding、Claude Agent SDK 与 MCP，引发隐私与稳定性争论",
+  "description": "Apple 在 Xcode 26.3 的發佈說明中強調了“agentic coding”支持，通過集成 Anthropic 的 Claude Agent SDK 並暴露 Model Context Protocol (MCP) 讓第三方 agents 可與 IDE 互通。社區討論建立在幾個前提上：開發者希望 IDE 能直接可視化 SwiftUI Previ…",
+  "tags": [
+    "新闻",
+    "Xcode"
+  ],
+  "storagePath": "2026/02/05/newshacker.me-Xcode-263-支持-agentic-codingClaude-Agent-SDK-与-MCP引"
+}
